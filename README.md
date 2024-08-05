@@ -7,9 +7,6 @@ Welcome to my Battleship game! You can play against a computer opponent and choo
 - [Introduction](#introduction)
 - [Features](#features)
 - [Getting Started](#getting-started)
-- [Game Play](#game-play)
-- [Commands](#commands)
-- [License](#license)
 
 ## Introduction
 
